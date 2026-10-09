@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://avtalsslut.se/sitemap.xml
